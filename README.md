@@ -1,0 +1,2 @@
+- </> Hello, I’m @SlowSharking.
+- </> C++ & C# & HTML, CSS, JavaScript
